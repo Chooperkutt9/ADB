@@ -1,7 +1,5 @@
 #!/bin/bash
 
-echo -e "Argument used '$1'\n"
-fi
 
 
 help () {
